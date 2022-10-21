@@ -1,5 +1,4 @@
-# use_cases-smartContract
-Casos de Uso de Smart Contracts
+#Casos de Uso de Smart Contracts
 
 Conoce algunos de los principales casos de uso de los smart contracts y cómo a través de ellos puedes solucionar problemas reales. Crea contratos para validar la identidad de usuarios, proteger activos digitales o hacer transferencias de valor seguras.
 
